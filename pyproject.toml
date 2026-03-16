@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "calculate-age"
-version = "0.1.1"
+version = "0.1.2"
 description = "Calculate ages from date columns in Pandas or Polars DataFrames"
 readme = "README.md"
 requires-python = ">=3.9"
@@ -19,6 +19,10 @@ dependencies = [
     "pandas>=2.0",
     "polars>=0.20",
 ]
+
+[project.urls]
+Homepage = "https://github.com/xjefrod99/calculate_age"
+Source = "https://github.com/xjefrod99/calculate_age"
 
 [project.optional-dependencies]
 dev = [
