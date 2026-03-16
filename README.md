@@ -1,6 +1,9 @@
 # calculate-age
 
 [![PyPI version](https://badge.fury.io/py/calculate-age.svg)](https://pypi.org/project/calculate-age/)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/calculate-age)
+[![PyPI Downloads](https://pypistats.com/api/badges/calculate-age)]
+(https://pypistats.com/packages/calculate-age)
 
 Calculate ages from date columns in Pandas/Polars DataFrames.
 
