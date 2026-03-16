@@ -1,0 +1,13 @@
+# Build / distribution
+dist/
+build/
+*.egg-info/
+
+# Caches
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Credentials
+.pypirc

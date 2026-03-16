@@ -1,0 +1,8 @@
+include LICENSE-MIT
+include README.md
+include pyproject.toml
+
+recursive-include src *.py
+
+prune tests
+prune .pytest_cache
