@@ -5,7 +5,7 @@
 
 (https://pypistats.com/packages/calculate-age)
 
-Calculate ages from date columns in Pandas/Polars DataFrames.
+Calculate ages from date columns in Pandas/Polars DataFrames (#package #calculate-age.
 
 ## Install
 ```bash
