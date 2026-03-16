@@ -1,0 +1,8 @@
+pandas>=2.0
+polars>=0.20
+
+[dev]
+pytest>=7
+pytest-xdist
+black
+mypy
